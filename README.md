@@ -113,14 +113,6 @@
 
 В моих репозиториях представлены проекты веб-разработки и учебные работы по программированию.
 
-| Проект | Описание | Технологии |
-|---|---|---|
-| **Лендинги** | Адаптивные сайты для бизнеса и частных специалистов | HTML, CSS, JavaScript |
-| **Expense Tracker** | Учёт доходов и расходов, управление операциями, фильтры и расчёт баланса | HTML, CSS, JavaScript, localStorage |
-| **Проекты на Python** | Учебные приложения и практические задачи | Python |
-| **Проекты на Java** | Учебные проекты и практика объектно-ориентированного программирования | Java |
-| **Проекты на Go** | Примеры разработки программного обеспечения | Go |
-
 В репозиториях можно ознакомиться с исходным кодом, особенностями реализации и доступными демонстрационными версиями.
 
 ## 🎓 Образование
@@ -152,6 +144,31 @@
 Посмотрите мои репозитории и свяжитесь со мной, чтобы обсудить задачу, требования и возможные варианты реализации.
 
 **Понимание бизнеса. Практическая разработка. Полезные цифровые продукты.** 🚀
+
+## 🛠️ Мой стек
+
+**Языки программирования**
+- JavaScript (JS), TypeScript (TS)
+- Python, Java
+- Go
+- C, C++
+
+**Frontend**
+- HTML5, CSS3
+- React
+- Vue.js
+- Next.js
+
+**Backend**
+- Node.js
+- Go
+
+**Базы данных**
+- PostgreSQL
+
+**Инструменты**
+- Git, GitHub
+- Visual Studio Code
 
 ---
 
@@ -300,3 +317,30 @@ Have an idea for a website, web application, or business tool?
 Explore my repositories and get in touch to discuss your requirements and possible solutions.
 
 **Business understanding. Practical development. Useful digital products.** 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming Languages**
+- JavaScript (JS), TypeScript (TS)
+- Python, Java
+- Go
+- C, C++
+
+**Frontend**
+- HTML5, CSS3
+- React
+- Vue.js
+- Next.js
+
+**Backend**
+- Node.js
+- Go
+
+**Databases**
+- PostgreSQL
+
+**Tools**
+- Git, GitHub
+- Visual Studio Code
