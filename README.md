@@ -112,7 +112,6 @@
 ## 📂 Проекты в портфолио
 
 В моих репозиториях представлены проекты веб-разработки и учебные работы по программированию.
-
 В репозиториях можно ознакомиться с исходным кодом, особенностями реализации и доступными демонстрационными версиями.
 
 ## 🎓 Образование
@@ -277,15 +276,6 @@ This experience helps me understand the context behind a development task: why a
 ## 📂 Portfolio Projects
 
 My repositories contain web development projects and programming exercises that demonstrate my technical skills and ongoing development.
-
-| Project | Description | Technologies |
-|---|---|---|
-| **Landing Pages** | Responsive websites for businesses and independent professionals | HTML, CSS, JavaScript |
-| **Expense Tracker** | Income and expense management with transaction editing, filtering, and balance calculations | HTML, CSS, JavaScript, localStorage |
-| **Python Projects** | Educational projects and programming practice | Python |
-| **Java Projects** | Educational projects and object-oriented programming practice | Java |
-| **Go Projects** | Software development projects and examples | Go |
-
 Explore my repositories for source code, implementation details, and available live demos.
 
 ## 🎓 Academic Background
