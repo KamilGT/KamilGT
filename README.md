@@ -3,7 +3,7 @@
 **Создаю цифровые решения для бизнеса — от лендингов до CRM-систем.**
 **Building digital solutions — from landing pages to CRM systems.**  
 
-[🇬🇧 English](#english) · [🇷🇺 Русский](#русская-версия)
+[🇷🇺 Русский](#русская-версия) · [🇬🇧 English](#english)
 
 ---
 
